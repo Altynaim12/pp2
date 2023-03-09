@@ -1,6 +1,6 @@
 import os
 
-example = "C:/Users/acer/Documents/"
+example = "C:/Users/SULPAK/Documents/"
 
 print("Directories: ")
 for i in os.listdir(example):
