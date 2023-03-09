@@ -1,6 +1,7 @@
 
 
-example = "C:/Users/SULPAK/Documents/ПП2/Week6/TSIS5/12.txt"
+example = "C:\\Users\\Алтынай\\Desktop\\w3\\files\\text.txt"
+
 
 with open(example, 'r') as e:
     lines = e.readlines()

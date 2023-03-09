@@ -1,6 +1,7 @@
 import os
 
-example = "C:/Users/SULPAK/Documents/ПП2/Week7/TSIS6/files/delete.txt"
+example = "C:\\Users\\Алтынай\\Desktop\\w3\\files\\text.txt"
+
 
 
 if os.path.exists(example):

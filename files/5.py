@@ -1,4 +1,5 @@
-example = "C:/Users/SULPAK/Documents/ПП2/Week6/TSIS5/12.txt"
+example = "C:\\Users\\Алтынай\\Desktop\\w3\\files\\text.txt"
+
 my_opinion = ['PP2', 'is', 'strange', 'for', 'me']
 
 with open(example, 'w') as e:
